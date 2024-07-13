@@ -43,9 +43,6 @@ Welcome to my GitHub! I'm a software engineer with over one year of industry exp
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ameer-Hamza289&theme=radical)
 
-## 📈 Activity Graph
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ameer-Hamza289&theme=react-dark)
 
 ## Connect with Me
 
