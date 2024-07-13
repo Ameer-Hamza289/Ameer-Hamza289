@@ -6,9 +6,9 @@ Welcome to my GitHub! I'm a software engineer with over one year of industry exp
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [current project]
+- 🔭 I’m currently working on self development and problem solving
 - 🌱 I’m currently learning AWS technologies
-- 👯 I’m looking to collaborate on projects powered by Machine Learning
+- 👯 I’m looking to collaborate on projects powered by Machine Learning or AI
 - 💬 Ask me about full stack development and the MERN stack
 - 📫 How to reach me: ameer.hamza92002@gmail.com
 - ⚡ Fun fact: As a tech geek, I'm always exploring the latest advancements in technology, from tinkering with new gadgets to tackling coding challenges with enthusiasm.
@@ -47,14 +47,9 @@ Welcome to my GitHub! I'm a software engineer with over one year of industry exp
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ameer-Hamza289&theme=react-dark)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/ameer-hamza-748618244/)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/Hamza28925)
 [![Personal Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome)](https://ameer-hamza-portfolio.netlify.app/)
 
