@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a software engineer with over one year of industry exp
 ## 🚀 About Me
 
 - 🔭 I’m currently working on self development and problem solving
-- 🌱 I’m currently learning AWS technologies
+- 🌱 I’m currently learning AI technologies.
 - 👯 I’m looking to collaborate on projects powered by Machine Learning or AI
 - 💬 Ask me about full stack development and the MERN stack
 - 📫 How to reach me: ameer.hamza92002@gmail.com
