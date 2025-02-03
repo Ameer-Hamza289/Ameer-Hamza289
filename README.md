@@ -1,6 +1,6 @@
 # 💻 Ameer Hamza
 
-Welcome to my GitHub! I'm a software engineer with over one year of industry experience. I specialize in software development and am passionate about creating attractive and efficient solutions.
+Welcome to my GitHub! I'm a software engineer with over one year of industry experience. I specialize in software development and am passionate about creating attractive and efficient solutions
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ameer-Hamza289&color=blueviolet)
 
