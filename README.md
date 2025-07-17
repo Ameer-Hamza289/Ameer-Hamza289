@@ -1,15 +1,15 @@
 # 💻 Ameer Hamza
 
-Welcome to my GitHub! I'm a software engineer with extensive industry experience. I specialize in software development and am passionate about creating attractive and efficient solutions
+Welcome to my GitHub! I'm a software engineer with extensive experience in the industry. I specialize in problem-solving and software development, and am passionate about creating attractive and efficient solutions
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ameer-Hamza289&color=blueviolet)
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on self development and problem solving
+- 🔭 I’m currently working on self-development and problem-solving
 - 🌱 I’m currently learning AI technologies.
 - 👯 I’m looking to collaborate on projects powered by Machine Learning or AI
-- 💬 Ask me about full stack development and the MERN stack
+- 💬 Ask me about full-stack development and the MERN stack
 - 📫 How to reach me: ameer.hamza92002@gmail.com
 - ⚡ Fun fact: As a tech geek, I'm always exploring the latest advancements in technology, from tinkering with new gadgets to tackling coding challenges with enthusiasm.
 
@@ -46,7 +46,6 @@ Welcome to my GitHub! I'm a software engineer with extensive industry experience
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/ameer-hamza-748618244/)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/Hamza28925)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](www.linkedin.com/in/ameer-hamza001)
 [![Personal Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome)](https://ameer-hamza-portfolio.vercel.app/)
 
