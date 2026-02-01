@@ -10,19 +10,19 @@ I’m a full-stack software engineer with hands-on experience building scalable 
 
 ## 🚀 About Me
 
-- 🔭 Currently focused on self-improvement, system design, and problem-solving  
+- 🔭 Currently focused on system design, problem-solving, and self-growth  
 - 🌱 Actively learning and building with AI, LLMs, and agentic workflows  
 - 👯 Open to collaborating on AI, SaaS, and high-impact web products  
-- 💬 Ask me about MERN stack, Next.js, backend architecture, or scaling apps  
+- 💬 Ask me about MERN stack, Next.js, backend architecture, and scaling apps  
 - 📫 Reach me at: **ameer.hamza92002@gmail.com**  
-- ⚡ Fun fact: I love breaking systems just to rebuild them better and faster  
+- ⚡ Fun fact: I enjoy breaking systems just to rebuild them faster and cleaner  
 
 ---
 
 ## 🧠 What I Do Best
 
 - Build production-ready full-stack applications  
-- Design clean APIs & scalable backend systems  
+- Design scalable backend architectures & APIs  
 - Work with SQL & NoSQL databases  
 - Integrate AI features into real-world products  
 - Write maintainable, performance-focused code  
@@ -57,20 +57,29 @@ I’m a full-stack software engineer with hands-on experience building scalable 
 
 ## 📊 GitHub Analytics
 
-![Ameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ameer-Hamza289&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer-Hamza289&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ameer-Hamza289&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer-Hamza289&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ameer-Hamza289&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ameer-Hamza289&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ameer-Hamza289&theme=radical&margin-w=10)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ameer-Hamza289&theme=radical&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
