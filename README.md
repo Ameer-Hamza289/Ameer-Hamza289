@@ -55,30 +55,10 @@ I’m a full-stack software engineer with hands-on experience building scalable 
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ameer-Hamza289&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer-Hamza289&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ameer-Hamza289&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ameer-Hamza289&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
