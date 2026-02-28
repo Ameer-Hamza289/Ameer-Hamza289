@@ -12,7 +12,7 @@ I’m a full-stack software engineer with hands-on experience building scalable 
 
 - 🔭 Currently focused on system design, problem-solving, and self-growth  
 - 🌱 Actively learning and building with AI, LLMs, and agentic workflows  
-- 👯 Open to collaborating on AI, SaaS, and high-impact web products  
+- 👯 Open to collaborating on AI, SaaS, and high-impact web & mobile products  
 - 💬 Ask me about MERN stack, Next.js, backend architecture, and scaling apps  
 - 📫 Reach me at: **ameer.hamza92002@gmail.com**  
 - ⚡ Fun fact: I enjoy breaking systems just to rebuild them faster and cleaner  
