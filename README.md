@@ -10,7 +10,7 @@ I’m a full-stack software engineer with hands-on experience building scalable 
 
 ## 🚀 About Me
 
-- 🔭 Currently focused on system design, problem-solving, and self-growth  
+- 🔭 Currently focused on system design, problem-solving, and scalable solutions 
 - 🌱 Actively building with AI, LLMs, and agentic workflows  
 - 👯 Open to collaborating on AI, SaaS, and high-impact web & mobile products  
 - 💬 Ask me about MERN stack, Next.js, backend architecture, and scaling apps  
